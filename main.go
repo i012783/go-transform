@@ -1,4 +1,7 @@
-//Predix Transform 2016 Sample
+/*
+	GE PUBLIC USE
+	Predix Transform 2016 Sample
+*/
 
 package main
 
