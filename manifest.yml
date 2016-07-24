@@ -1,0 +1,6 @@
+---
+applications:
+  - name: go-transform
+    memory: 256M
+    instances: 1
+    command: go-transform

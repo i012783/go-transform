@@ -1,0 +1,25 @@
+{
+	"ImportPath": "go-transform",
+	"GoVersion": "go1.5",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Rev": "1c83b3eabd45b6d76072b66b746c20815fb2872d"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Rev": "9c068cf16d982f8bd444b8c352acbeec34c4fe5b"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "b6d7b1396ec874c3b00f6c84cd4301a17c56c8ed"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "188fb45fbef6ffd967b3a8abcfe176fd473361df"
+		}
+	]
+}
